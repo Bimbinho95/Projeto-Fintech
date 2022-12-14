@@ -1,0 +1,224 @@
+body{
+    background-color: #757575;
+}
+
+#cabeçalho{
+
+    position: absolute;
+    width: 320px;
+    height: 132px;
+    left: calc(50% - 320px/2);
+    top: 80px;
+    
+font-family: 'Martel Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 44px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#caixa_nome{
+/* Campo entrada */
+
+
+position: absolute;
+width: 279px;
+height: 58px;
+left: calc(50% - 279px/2 - 0.5px);
+top: 182px;
+
+}
+#nome{
+/* Nome */
+
+
+position: absolute;
+left: 2.51%;
+right: 82.08%;
+top: 0%;
+bottom: 68.97%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+}
+#nome_input{
+/* Fundo */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 37.93%;
+bottom: 0%;
+
+background: #D9D9D9;
+}
+
+#caixa_login{
+/* Campo entrada */
+
+
+position: absolute;
+width: 279px;
+height: 58px;
+left: calc(50% - 279px/2 - 0.5px);
+top: 250px;
+
+}
+
+#login{
+/* E-mail */
+
+
+position: absolute;
+left: 2.51%;
+right: 81.36%;
+top: 0%;
+bottom: 68.97%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+}
+
+#login_input{
+/* Fundo */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 37.93%;
+bottom: 0%;
+
+background: #D9D9D9;
+}
+
+#caixa_senha{
+/* Campo entrada */
+
+
+position: absolute;
+width: 279px;
+height: 58px;
+left: calc(50% - 279px/2 - 0.5px);
+top: 318px;
+
+}
+
+#senha{
+/* Senha */
+
+
+position: absolute;
+left: 2.51%;
+right: 81.36%;
+top: 0%;
+bottom: 68.97%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+}
+
+#senha_input{
+/* Fundo */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 37.93%;
+bottom: 0%;
+
+background: #D9D9D9;
+}
+
+#caixa_confirma{
+/* Campo entrada */
+
+
+position: absolute;
+width: 279px;
+height: 58px;
+left: calc(50% - 279px/2 - 0.5px);
+top: 386px;
+
+}
+
+#confirma{
+/* Confirma */
+
+
+position: absolute;
+left: 2.51%;
+right: 52.69%;
+top: 0%;
+bottom: 68.97%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+}
+
+#confirma_input{
+/* Fundo */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 37.93%;
+bottom: 0%;
+
+background: #D9D9D9;
+}
+
+#botao_enviar{
+/* Botão Serviço */
+
+
+position: absolute;
+width: 279px;
+height: 37px;
+left: calc(50% - 279px/2 - 0.5px);
+top: 508px;
+
+background: #AFAFAF;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 550;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}

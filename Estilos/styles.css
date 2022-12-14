@@ -1,0 +1,176 @@
+body{
+    background-color: #757575;
+}
+
+#cabeçalho{
+
+    position: absolute;
+    width: 320px;
+    height: 132px;
+    left: calc(50% - 320px/2);
+    top: 80px;
+    
+font-family: 'Martel Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 44px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+#caixa_login{
+position: absolute;
+width: 279px;
+height: 58px;
+left: calc(50% - 279px/2 - 0.5px);
+top: 182px;
+}
+#login{
+    /* E-mail */
+
+
+position: absolute;
+left: 2.51%;
+right: 81.36%;
+top: 0%;
+bottom: 68.97%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+}
+#login_input{
+    /* Fundo */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 37.93%;
+bottom: 0%;
+
+background: #D9D9D9;
+}
+
+#caixa_senha{
+    /* Campo entrada senha */
+
+
+position: absolute;
+width: 279px;
+height: 58px;
+left: calc(50% - 279px/2 - 0.5px);
+top: 255px;
+
+}
+
+#senha{
+    /* E-mail */
+
+
+position: absolute;
+left: 2.51%;
+right: 81.36%;
+top: 0%;
+bottom: 68.97%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+}
+
+#senha_input{
+    /* Fundo */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 37.93%;
+bottom: 0%;
+
+background: #D9D9D9;
+}
+
+#botao_enviar{
+/* Botão Serviço */
+
+
+position: absolute;
+width: 130px;
+height: 37px;
+left: calc(50% - 130px/2 + 74px);
+top: 341px;
+
+background: #AFAFAF;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 550;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+
+#botao_cadastrar{
+    /* Botão Serviço */
+
+
+position: absolute;
+width: 130px;
+height: 37px;
+left: calc(50% - 130px/2 - 75px);
+top: 341px;
+
+/* Rectangle 1 */
+
+background: #AFAFAF;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 550;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+}
+
+h2{
+font-family: 'Inter';
+font-style: italic;
+font-weight: 600;
+font-size: 16px;
+color: #FFFFFF;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+}
+
+#esqueci{
+    /* Esqueci minha senha */
+    
+position: absolute;
+width: 143px;
+height: 17px;
+left: calc(50% - 143px/2 - 0.5px);
+top: 406px;
+}
